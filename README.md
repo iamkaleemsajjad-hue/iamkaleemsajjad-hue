@@ -122,10 +122,13 @@ fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026 🏆
 > **AI Seekho 2026 Hackathon** — Participated in Pakistan's premier AI hackathon, embracing vibe coding, AI orchestration, and pushing the boundaries of product thinking. Recognized for demonstrating the relentless grit that defines the next generation of Pakistani builders.
 
 <details>
-<summary>📜 View Certificate</summary>
+<summary>📜 View Certificate — AI Seekho 2026 Google Antigravity Hackathon</summary>
 <br/>
 
-![AI Seekho 2026 Certificate](https://raw.githubusercontent.com/iamkaleemsajjad-hue/iamkaleemsajjad-hue/main/certificate.png)
+![AI Seekho 2026 Certificate — Muhammad Kaleem Sajjad](https://raw.githubusercontent.com/iamkaleemsajjad-hue/iamkaleemsajjad-hue/main/certificate.png)
+
+> *Awarded for participating in AI Seekho 2026 — Google Antigravity National Hackathon 2026.*
+> *Organized by Google for Developers, Tech Nation Pakistan, Telenor 4G & Innovista.*
 
 </details>
 
@@ -170,7 +173,7 @@ fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026 🏆
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamkaleemsajjad-hue&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkaleemsajjad-hue&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=FF7F50&currStreakLabel=58A6FF" />
+<img width="49%" src="https://streak-stats.demolab.com?user=iamkaleemsajjad-hue&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=FF7F50&currStreakLabel=58A6FF" />
 
 <br/>
 
