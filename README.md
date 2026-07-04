@@ -45,6 +45,36 @@
 
 ---
 
+<!-- ═══════════════════ PORTFOLIO SPOTLIGHT ═══════════════════ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1f2e,100:0d1117&height=3&section=header" />
+
+### ✨ Portfolio Spotlight
+
+<a href="https://kalimdev-portfolio.vercel.app/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Visit+My+Portfolio;%E2%9C%A8+kalimdev-portfolio.vercel.app;%F0%9F%92%BB+Full-Stack+%7C+Mobile+%7C+AI+Projects;%F0%9F%8C%9F+Built+with+Passion+%26+Precision" alt="Portfolio Typing Banner" />
+</a>
+
+<br/>
+
+<a href="https://kalimdev-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20My%20Portfolio-kalimdev--portfolio.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio Badge" />
+</a>
+&nbsp;&nbsp;
+<a href="https://kalimdev-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%9C%A8%20Visit%20Now%20%E2%86%92-Live%20Site-00D084?style=for-the-badge&logo=rocket.chat&logoColor=white&labelColor=0d1117" alt="Visit Portfolio" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1f2e,100:0d1117&height=3&section=footer" />
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 ```yaml
@@ -201,6 +231,7 @@ fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026 🏆
 | 📧 Email | [iamkaleemsajjad@gmail.com](mailto:iamkaleemsajjad@gmail.com) |
 | 🌐 Live Project | [nust-nexus.tech](https://nust-nexus.tech) |
 | 👾 GitHub | [@iamkaleemsajjad-hue](https://github.com/iamkaleemsajjad-hue) |
+| 🚀 **Portfolio** | [**kalimdev-portfolio.vercel.app**](https://kalimdev-portfolio.vercel.app/) |
 
 <br/>
 
