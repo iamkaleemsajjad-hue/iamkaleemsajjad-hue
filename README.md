@@ -19,6 +19,10 @@
 
 <!-- Social Badges -->
 <p align="center">
+  <a href="https://kalimdev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-kalimdev--portfolio.vercel.app-FFD700?style=for-the-badge&labelColor=0d1117&logoColor=black" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/muhammad-kaleem-sajjad-42b175386" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -40,6 +44,54 @@
 
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=iamkaleemsajjad-hue&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile views" />
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--       🔥 ELITE PORTFOLIO SHOWCASE — DO NOT MISS THIS 🔥       -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:0a2a4a,60:0d3b6e,100:1a73e8&height=3&section=header" />
+
+<br/>
+
+<!-- Pulse / attention-grabber row -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=1200&pause=400&color=FFD700&center=true&vCenter=true&multiline=false&width=800&lines=%E2%9A%A1+LIVE+PORTFOLIO+%E2%80%94+Click+Below+to+See+My+Work+%E2%9A%A1;%F0%9F%9A%80+Full-Stack+%7C+UI%2FUX+%7C+Mobile+%7C+AI+Projects;%F0%9F%8C%9F+Crafted+with+Precision+%E2%80%94+Built+to+Impress" alt="Portfolio Attention" />
+
+<br/><br/>
+
+<!-- Main CTA Badge — extra large, animated gradient border via capsule-render -->
+<a href="https://kalimdev-portfolio.vercel.app/" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=90&section=header&text=%F0%9F%8C%90%20kalimdev-portfolio.vercel.app&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Click+to+Explore+My+Full+Portfolio&descSize=14&descAlignY=78&descColor=a8d8ff" width="100%" alt="Portfolio Banner" />
+</a>
+
+<br/>
+
+<!-- Glowing shield buttons row -->
+<a href="https://kalimdev-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20VIEW%20PORTFOLIO-%20kalimdev--portfolio.vercel.app-FFD700?style=for-the-badge&labelColor=0d1117&color=FFD700&logoColor=black" height="40" alt="Portfolio Link" />
+</a>
+&nbsp;&nbsp;
+<a href="https://kalimdev-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE%20%E2%80%94%20DEPLOYED%20ON-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Deployed on Vercel" />
+</a>
+&nbsp;&nbsp;
+<a href="https://kalimdev-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%AD%90%20OPEN%20NOW-Portfolio%20%7C%20Projects%20%7C%20Contact-58A6FF?style=for-the-badge&labelColor=161b22" height="40" alt="Open Portfolio" />
+</a>
+
+<br/><br/>
+
+<!-- Animated typing subtitle for portfolio -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AF+Projects+%7C+Skills+%7C+Resume+%7C+Contact+—+All+in+One+Place;%F0%9F%94%97+https%3A%2F%2Fkalimdev-portfolio.vercel.app%2F;%F0%9F%92%BC+Available+for+Freelance+%26+Full-Time+Opportunities" alt="Portfolio Details" />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a73e8,60:0d3b6e,100:0d1117&height=3&section=footer" />
 
 </div>
 
@@ -197,6 +249,7 @@ fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026 🏆
 
 | Platform | Link |
 |:---:|:---:|
+| 🌟 **Portfolio** | **[✨ kalimdev-portfolio.vercel.app ✨](https://kalimdev-portfolio.vercel.app/)** |
 | 💼 LinkedIn | [muhammad-kaleem-sajjad](https://www.linkedin.com/in/muhammad-kaleem-sajjad-42b175386) |
 | 📧 Email | [iamkaleemsajjad@gmail.com](mailto:iamkaleemsajjad@gmail.com) |
 | 🌐 Live Project | [nust-nexus.tech](https://nust-nexus.tech) |
