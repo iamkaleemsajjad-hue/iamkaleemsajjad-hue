@@ -3,13 +3,10 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=header&text=&animation=fadeIn" />
 
-<!-- Name — Pixel/Retro Style -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=52&duration=0&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=90&lines=MUHAMMAD+KALEEM+SAJJAD" alt="Muhammad Kaleem Sajjad" />
-
-<br/>
-
-<!-- Role Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+App+Developer;Open+Source+Builder;AI+Hackathon+Participant;Systems+%26+Mobile+Engineer" alt="Typing SVG" />
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Muhammad+Kaleem+Sajjad;Full-Stack+%26+App+Developer;Open+Source+Builder;AI+Hackathon+Participant" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -95,9 +92,7 @@ fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,kotlin,cpp&theme=dark" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117" height="32"/>
+  <img src="https://skillicons.dev/icons?i=js,python,java,kotlin,cpp,mysql&theme=dark" />
 </p>
 
 ### Web & Mobile Development
@@ -121,11 +116,9 @@ fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026
 ### AI & Modern Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gsap&theme=dark" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117" height="48"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
