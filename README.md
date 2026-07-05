@@ -182,12 +182,7 @@ fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamkaleemsajjad-hue&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
-<img width="49%" src="https://streak-stats.demolab.com?user=iamkaleemsajjad-hue&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=FF7F50&currStreakLabel=58A6FF" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaleemsajjad-hue&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
+<img src="https://streak-stats.demolab.com?user=iamkaleemsajjad-hue&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=FF7F50&currStreakLabel=58A6FF" />
 
 </div>
 
