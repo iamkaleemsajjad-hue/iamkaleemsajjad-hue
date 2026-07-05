@@ -1,19 +1,20 @@
 <div align="center">
 
-<!-- Animated Banner -->
+<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=header&text=&animation=fadeIn" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Muhammad+Kaleem+Sajjad;Full-Stack+%26+App+Developer;Open+Source+Builder;AI+Hackathon+Participant+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- Name — Pixel/Retro Style -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=52&duration=0&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=90&lines=MUHAMMAD+KALEEM+SAJJAD" alt="Muhammad Kaleem Sajjad" />
+
+<br/>
+
+<!-- Role Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+App+Developer;Open+Source+Builder;AI+Hackathon+Participant;Systems+%26+Mobile+Engineer" alt="Typing SVG" />
 
 <br/>
 
 <!-- Subtitle -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Building+real-world+solutions+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Web+%7C+Mobile+%7C+Systems+%7C+AI+%7C+Databases;Student+@+NUST+%E2%80%A2+Vibe+Coder+%E2%80%A2+Builder" alt="Subtitle" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Building+real-world+solutions+from+Pakistan;Web+%7C+Mobile+%7C+Systems+%7C+AI+%7C+Databases;Student+%40+NUST+%E2%80%A2+Builder+%E2%80%A2+Contributor" alt="Subtitle" />
 
 <br/>
 
@@ -31,8 +32,12 @@
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
+  <a href="https://kalimdev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <a href="https://nust-nexus.tech" target="_blank">
-    <img src="https://img.shields.io/badge/NUST%20NEXUS-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="NUST Nexus"/>
+    <img src="https://img.shields.io/badge/NUST%20NEXUS-21262d?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="NUST Nexus"/>
   </a>
 </p>
 
@@ -45,42 +50,30 @@
 
 ---
 
-<!-- ═══════════════════ PORTFOLIO SPOTLIGHT ═══════════════════ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1f2e,100:0d1117&height=3&section=header" />
-
-### ✨ Portfolio Spotlight
+### Portfolio
 
 <a href="https://kalimdev-portfolio.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Visit+My+Portfolio;%E2%9C%A8+kalimdev-portfolio.vercel.app;%F0%9F%92%BB+Full-Stack+%7C+Mobile+%7C+AI+Projects;%F0%9F%8C%9F+Built+with+Passion+%26+Precision" alt="Portfolio Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=kalimdev-portfolio.vercel.app;Full-Stack+%7C+Mobile+%7C+AI+Projects;Built+with+Precision" alt="Portfolio Typing Banner" />
 </a>
 
 <br/>
 
 <a href="https://kalimdev-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20My%20Portfolio-kalimdev--portfolio.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio Badge" />
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-kalimdev--portfolio.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio Badge" />
 </a>
-&nbsp;&nbsp;
-<a href="https://kalimdev-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%9C%A8%20Visit%20Now%20%E2%86%92-Live%20Site-00D084?style=for-the-badge&logo=rocket.chat&logoColor=white&labelColor=0d1117" alt="Visit Portfolio" />
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1f2e,100:0d1117&height=3&section=footer" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 name:       Muhammad Kaleem Sajjad
-alias:      i-am-KaleemSajjad
-location:   Pakistan 🇵🇰
+alias:      iamkaleemsajjad-hue
+location:   Pakistan
 education:  NUST (National University of Sciences & Technology)
 
 passion:    Building elegant, high-impact software
@@ -88,71 +81,65 @@ focus:      Full-Stack Web · Mobile Apps · Systems Programming
 approach:   Ship fast. Think deep. Build clean.
 
 currently_building:
-  - 🎓 NUST NEXUS  — Student resource platform (Vite + Supabase)
-  - 🛠  KALIM-OS   — Custom operating environment (Python)
-  - 📱  cryonix    — Mobile application (Kotlin)
+  - NUST NEXUS  — Student resource platform (Vite + Supabase)
+  - KALIM-OS    — Custom operating environment (Python)
+  - cryonix     — Mobile application (Kotlin)
 
-fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026 🏆
+fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026
 ```
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
+
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,kotlin,cpp&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117" height="32"/>
 </p>
 
-### 🌐 Web & Mobile Development
+### Web & Mobile Development
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,vite,androidstudio&theme=dark" />
 </p>
 
-### 🗄 Backend & Database
+### Backend & Database
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=supabase,postgres&theme=dark" />
 </p>
 
-### ⚙️ DevOps & Tools
+### DevOps & Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,githubactions&theme=dark" />
 </p>
 
-### 🤖 AI & Modern Tools
+### AI & Modern Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gsap&theme=dark" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117" height="48"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117" height="48"/>
 </p>
 
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications & Achievements
 
-| 🎖 Certificate | 🏛 Issuer | 📅 Year |
+| Certificate | Issuer | Year |
 |:---|:---|:---:|
-| 🚀 **AI Seekho 2026 — Google Antigravity National Hackathon** | Google for Developers × Tech Nation Pakistan × Telenor 4G × Innovista | 2026 |
+| **AI Seekho 2026 — Google Antigravity National Hackathon** | Google for Developers × Tech Nation Pakistan × Telenor 4G × Innovista | 2026 |
 
 > **AI Seekho 2026 Hackathon** — Participated in Pakistan's premier AI hackathon, embracing vibe coding, AI orchestration, and pushing the boundaries of product thinking. Recognized for demonstrating the relentless grit that defines the next generation of Pakistani builders.
 
 <details>
-<summary>📜 View Certificate — AI Seekho 2026 Google Antigravity Hackathon</summary>
+<summary>View Certificate — AI Seekho 2026 Google Antigravity Hackathon</summary>
 <br/>
 
 ![AI Seekho 2026 Certificate — Muhammad Kaleem Sajjad](https://raw.githubusercontent.com/iamkaleemsajjad-hue/iamkaleemsajjad-hue/main/certificate.png)
@@ -164,41 +151,41 @@ fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026 🏆
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎓 [NUST NEXUS](https://github.com/iamkaleemsajjad-hue/NUST-NEXUS) — Student Resource Platform
+### [NUST NEXUS](https://github.com/iamkaleemsajjad-hue/NUST-NEXUS) — Student Resource Platform
 > A full-stack academic hub for NUST students to share resources, collaborate, and earn rewards.
 
-- 🛠 **Stack:** Vite · JavaScript · Supabase · PostgreSQL · GSAP · AnimeJS
-- ✨ **Features:** File uploads, Q&A forum, project idea room, gamified points system, admin dashboard
-- 🔐 **Security:** Row Level Security (RLS) · SHA-256 hashing · Session timeouts · University email auth
-- 🌐 **Live:** [nust-nexus.tech](https://nust-nexus.tech)
+- **Stack:** Vite · JavaScript · Supabase · PostgreSQL · GSAP · AnimeJS
+- **Features:** File uploads, Q&A forum, project idea room, gamified points system, admin dashboard
+- **Security:** Row Level Security (RLS) · SHA-256 hashing · Session timeouts · University email auth
+- **Live:** [nust-nexus.tech](https://nust-nexus.tech)
 
 ---
 
-### 🐧 [KALIM-OS](https://github.com/iamkaleemsajjad-hue/KALIM-OS) — Custom OS Environment
+### [KALIM-OS](https://github.com/iamkaleemsajjad-hue/KALIM-OS) — Custom OS Environment
 > A Python-based custom operating system environment.
 
-- 🛠 **Stack:** Python · Linux
-- 🎯 **Focus:** Systems programming, OS-level tooling
+- **Stack:** Python · Linux
+- **Focus:** Systems programming, OS-level tooling
 
 ---
 
-### 📡 [wifi-convertor](https://github.com/iamkaleemsajjad-hue/wifi-convertor) — WiFi Utility Tool
+### [wifi-convertor](https://github.com/iamkaleemsajjad-hue/wifi-convertor) — WiFi Utility Tool
 > A Java-based WiFi conversion and management utility.
 
-- 🛠 **Stack:** Java · Android
+- **Stack:** Java · Android
 
 ---
 
-### 💎 [cryonix](https://github.com/iamkaleemsajjad-hue/cryonix) — Mobile Application
+### [cryonix](https://github.com/iamkaleemsajjad-hue/cryonix) — Mobile Application
 > A modern mobile app built with Kotlin.
 
-- 🛠 **Stack:** Kotlin · Android
+- **Stack:** Kotlin · Android
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -213,7 +200,7 @@ fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026 🏆
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/iamkaleemsajjad-hue/iamkaleemsajjad-hue/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -221,17 +208,25 @@ fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026 🏆
 
 ---
 
-## 📫 Connect With Me
+## Activity Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamkaleemsajjad-hue&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&area_color=1a2332" alt="Activity Graph" />
+</div>
+
+---
+
+## Connect
 
 <div align="center">
 
 | Platform | Link |
 |:---:|:---:|
-| 💼 LinkedIn | [muhammad-kaleem-sajjad](https://www.linkedin.com/in/muhammad-kaleem-sajjad-42b175386) |
-| 📧 Email | [iamkaleemsajjad@gmail.com](mailto:iamkaleemsajjad@gmail.com) |
-| 🌐 Live Project | [nust-nexus.tech](https://nust-nexus.tech) |
-| 👾 GitHub | [@iamkaleemsajjad-hue](https://github.com/iamkaleemsajjad-hue) |
-| 🚀 **Portfolio** | [**kalimdev-portfolio.vercel.app**](https://kalimdev-portfolio.vercel.app/) |
+| LinkedIn | [muhammad-kaleem-sajjad](https://www.linkedin.com/in/muhammad-kaleem-sajjad-42b175386) |
+| Email | [iamkaleemsajjad@gmail.com](mailto:iamkaleemsajjad@gmail.com) |
+| Live Project | [nust-nexus.tech](https://nust-nexus.tech) |
+| GitHub | [@iamkaleemsajjad-hue](https://github.com/iamkaleemsajjad-hue) |
+| Portfolio | [kalimdev-portfolio.vercel.app](https://kalimdev-portfolio.vercel.app/) |
 
 <br/>
 
