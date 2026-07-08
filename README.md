@@ -182,8 +182,16 @@ fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=iamkaleemsajjad-hue&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=FF7F50&currStreakLabel=58A6FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iamkaleemsajjad-hue&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=FF7F50&currStreakLabel=58A6FF" />
 
+</div>
+
+---
+
+## 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iamkaleemsajjad-hue/iamkaleemsajjad-hue/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
