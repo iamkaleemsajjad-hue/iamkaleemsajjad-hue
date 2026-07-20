@@ -71,7 +71,7 @@
 <tr>
 <td width="320" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/iamkaleemsajjad-hue/iamkaleemsajjad-hue/main/myself_art.png" width="300" style="border-radius: 8px;" alt="Muhammad Kaleem Sajjad" />
+<img src="https://raw.githubusercontent.com/iamkaleemsajjad-hue/iamkaleemsajjad-hue/main/myself_animated.gif" width="300" style="border-radius: 8px;" alt="Muhammad Kaleem Sajjad" />
 
 **Muhammad Kaleem Sajjad**
 
