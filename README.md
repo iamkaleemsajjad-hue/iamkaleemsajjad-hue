@@ -67,6 +67,17 @@
 
 ## About Me
 
+<table>
+<tr>
+<td width="200" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/iamkaleemsajjad-hue/iamkaleemsajjad-hue/main/myself.jpeg" width="160" style="border-radius: 50%; border: 3px solid #58A6FF;" alt="Muhammad Kaleem Sajjad" />
+
+**Muhammad Kaleem Sajjad**
+
+</td>
+<td valign="top">
+
 ```yaml
 name:       Muhammad Kaleem Sajjad
 alias:      iamkaleemsajjad-hue
@@ -84,6 +95,10 @@ currently_building:
 
 fun_fact:   Participated in Google AI Seekho Antigravity Hackathon 2026
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
