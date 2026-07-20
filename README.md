@@ -69,9 +69,9 @@
 
 <table>
 <tr>
-<td width="200" valign="top" align="center">
+<td width="320" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/iamkaleemsajjad-hue/iamkaleemsajjad-hue/main/myself.jpeg" width="160" style="border-radius: 50%; border: 3px solid #58A6FF;" alt="Muhammad Kaleem Sajjad" />
+<img src="https://raw.githubusercontent.com/iamkaleemsajjad-hue/iamkaleemsajjad-hue/main/myself_art.png" width="300" style="border-radius: 8px;" alt="Muhammad Kaleem Sajjad" />
 
 **Muhammad Kaleem Sajjad**
 
